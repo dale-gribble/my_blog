@@ -3,10 +3,12 @@
 # for the complete configuration file
 
 # [MANDATORY] the URL of the microblog
-base_url = "https://kangae.ayushnix.com"
+base_url = "https://blogs.shadaloo.org"
 
 # [recommended] kangae doesn't use sass for its global stylesheet
 compile_sass = false
+
+theme = "kangae"
 
 # enable this when using kangae as a theme
 # theme = "kangae"
